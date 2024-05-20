@@ -1,0 +1,14 @@
+MobileParties: Lords, (Bandits)
+Artisans: Questfivers and influencers in towns
+rumble class: Controller vibration if playing with controller instead of keyboard
+
+
+
+
+
+
+
+
+Special Info:
+Maybe makes sense to move DisableHeroSpawnCampaignBehaviour out of "disabled" folder in E:\Bannerlord COOP\source\GameInterface\Services\Heroes\Patches\Disable\ folder since it is not fully disabled
+and partially synced.
